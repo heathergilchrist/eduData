@@ -1,0 +1,150 @@
+Year,Jurisdiction,All students,Average scale score,below Basic,at Basic,at Proficient,at Advanced
+2017,National,All students,267,24,40,32,4
+2017,National public,All students,265,25,41,31,4
+2017,National private,All students,‡,‡,‡,‡,‡
+2017,Large city,All students,258,32,41,24,3
+2017,Arizona,All students,263,25,44,28,2
+2017,Florida,All students,267,23,42,32,3
+2017,Indiana,All students,272,18,41,36,5
+2017,Louisiana,All students,257,33,42,23,2
+2017,Mississippi,All students,256,34,42,23,2
+2017,Oklahoma,All students,261,26,46,26,2
+2017,Utah,All students,269,21,41,35,4
+2015,National,All students,265,24,42,31,4
+2015,National public,All students,264,25,42,29,3
+2015,National private,All students,‡,‡,‡,‡,‡
+2015,Large city,All students,257,33,42,23,2
+2015,Arizona,All students,263,26,43,29,2
+2015,Florida,All students,263,25,45,28,2
+2015,Indiana,All students,268,20,42,33,4
+2015,Louisiana,All students,255,34,43,22,2
+2015,Mississippi,All students,252,37,43,19,1
+2015,Oklahoma,All students,263,24,47,28,2
+2015,Utah,All students,269,19,43,34,4
+2013,National,All students,268,22,42,32,4
+2013,National public,All students,266,23,42,31,4
+2013,National private,All students,285,9,34,46,10
+2013,Large city,All students,258,32,42,23,3
+2013,Arizona,All students,260,28,44,26,2
+2013,Florida,All students,266,23,43,30,3
+2013,Indiana,All students,267,21,45,32,3
+2013,Louisiana,All students,257,32,44,22,2
+2013,Mississippi,All students,253,36,44,19,1
+2013,Oklahoma,All students,262,25,46,27,2
+2013,Utah,All students,270,19,42,35,4
+2011,National,All students,265,24,42,30,3
+2011,National public,All students,264,25,43,29,3
+2011,National private,All students,282,10,37,46,8
+2011,Large city,All students,255,35,42,21,2
+2011,Arizona,All students,260,29,43,26,2
+2011,Florida,All students,262,27,43,27,2
+2011,Indiana,All students,265,22,46,30,2
+2011,Louisiana,All students,255,34,43,21,1
+2011,Mississippi,All students,254,35,44,20,1
+2011,Oklahoma,All students,260,27,46,25,2
+2011,Utah,All students,267,21,43,33,3
+2009,National,All students,264,25,43,30,3
+2009,National public,All students,262,26,43,28,2
+2009,National private,All students,282,8,39,46,6
+2009,Large city,All students,252,37,42,20,2
+2009,Arizona,All students,258,32,41,24,3
+2009,Florida,All students,264,24,44,29,2
+2009,Indiana,All students,266,21,47,30,2
+2009,Louisiana,All students,253,36,44,19,1
+2009,Mississippi,All students,251,38,42,18,1
+2009,Oklahoma,All students,259,27,47,25,1
+2009,Utah,All students,266,22,45,31,2
+2007,National,All students,263,26,43,28,3
+2007,National public,All students,261,27,43,27,2
+2007,National private,All students,280,11,38,44,7
+2007,Large city,All students,250,40,40,18,1
+2007,Arizona,All students,255,35,41,22,2
+2007,Florida,All students,260,29,43,26,2
+2007,Indiana,All students,264,24,45,29,2
+2007,Louisiana,All students,253,36,45,18,1
+2007,Mississippi,All students,250,40,43,16,1
+2007,Oklahoma,All students,260,28,46,25,1
+2007,Utah,All students,262,25,45,28,2
+2005,National,All students,262,27,42,28,3
+2005,National public,All students,260,29,42,26,3
+2005,National private,All students,‡,‡,‡,‡,‡
+2005,Large city,All students,250,40,40,18,2
+2005,Arizona,All students,255,35,42,21,2
+2005,Florida,All students,256,34,41,23,2
+2005,Indiana,All students,261,27,44,26,2
+2005,Louisiana,All students,253,36,44,19,1
+2005,Mississippi,All students,251,40,42,18,1
+2005,Oklahoma,All students,260,28,47,24,1
+2005,Utah,All students,262,27,44,27,2
+2003,National,All students,263,26,42,29,3
+2003,National public,All students,261,28,42,27,3
+2003,National private,All students,282,10,37,45,8
+2003,Large city,All students,249,42,40,17,1
+2003,Arizona,All students,255,34,41,23,2
+2003,Florida,All students,257,32,41,24,2
+2003,Indiana,All students,265,23,44,30,3
+2003,Louisiana,All students,253,36,42,20,2
+2003,Mississippi,All students,255,35,45,20,1
+2003,Oklahoma,All students,262,26,44,28,2
+2003,Utah,All students,264,24,44,30,2
+2002,National,All students,264,25,43,30,3
+2002,National public,All students,263,26,43,28,2
+2002,National private,All students,281,10,39,45,7
+2002,Large city,All students,250,40,40,18,1
+2002,Arizona,All students,257,32,45,22,1
+2002,Florida,All students,261,28,43,27,2
+2002,Indiana,All students,265,23,45,30,2
+2002,Louisiana,All students,256,32,46,21,1
+2002,Mississippi,All students,255,33,47,19,1
+2002,Oklahoma,All students,262,24,48,26,1
+2002,Utah,All students,263,25,43,30,2
+1998,National,All students,263,27,41,30,3
+1998,National public,All students,261,29,42,27,2
+1998,National private,All students,281,9,38,47,6
+1998,Large city,All students,—,—,—,—,—
+1998,Arizona,All students,260,28,45,25,1
+1998,Florida,All students,255,33,44,21,1
+1998,Indiana,All students,—,—,—,—,—
+1998,Louisiana,All students,252,37,46,17,1
+1998,Mississippi,All students,251,38,43,18,1
+1998,Oklahoma,All students,265,20,50,29,1
+1998,Utah,All students,263,23,46,30,1
+1998¹,National,All students,264,26,41,31,3
+1998¹,National public,All students,261,28,41,28,2
+1998¹,National private,All students,281,9,37,49,5
+1998¹,Large city,All students,—,—,—,—,—
+1998¹,Arizona,All students,261,27,45,26,2
+1998¹,Florida,All students,253,35,43,22,1
+1998¹,Indiana,All students,—,—,—,—,—
+1998¹,Louisiana,All students,252,36,47,17,1
+1998¹,Mississippi,All students,251,39,42,18,1
+1998¹,Oklahoma,All students,265,20,51,27,1
+1998¹,Utah,All students,265,23,46,29,2
+1994¹,National,All students,260,30,40,27,3
+1994¹,National public,All students,257,33,40,25,2
+1994¹,National private,All students,279,11,39,43,6
+1994¹,Large city,All students,—,—,—,—,—
+1994¹,Arizona,All students,—,—,—,—,—
+1994¹,Florida,All students,—,—,—,—,—
+1994¹,Indiana,All students,—,—,—,—,—
+1994¹,Louisiana,All students,—,—,—,—,—
+1994¹,Mississippi,All students,—,—,—,—,—
+1994¹,Oklahoma,All students,—,—,—,—,—
+1994¹,Utah,All students,—,—,—,—,—
+1992¹,National,All students,260,31,40,26,3
+1992¹,National public,All students,258,33,41,25,2
+1992¹,National private,All students,278,13,38,41,7
+1992¹,Large city,All students,—,—,—,—,—
+1992¹,Arizona,All students,—,—,—,—,—
+1992¹,Florida,All students,—,—,—,—,—
+1992¹,Indiana,All students,—,—,—,—,—
+1992¹,Louisiana,All students,—,—,—,—,—
+1992¹,Mississippi,All students,—,—,—,—,—
+1992¹,Oklahoma,All students,—,—,—,—,—
+1992¹,Utah,All students,—,—,—,—,—
+,,,,,,,
+— Not available.,,,,,,,
+‡ Reporting standards not met.,,,,,,,
+¹ Accommodations were not permitted for this assessment.,,,,,,,
+NOTE: Some apparent differences between estimates may not be statistically significant.,,,,,,,
+"SOURCE: U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, National Assessment of Educational Progress (NAEP), 1992, 1994, 1998, 2002, 2003, 2005, 2007, 2009, 2011, 2013, 2015, and 2017 Reading Assessments.",,,,,,,
